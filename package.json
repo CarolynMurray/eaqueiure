@@ -1,0 +1,19 @@
+{
+  "name": "eaqueiure",
+  "version": "1.0.0",
+  "description": "A Javascript implementation of Charikar's hash for identification of similar documents.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarolynMurray/eaqueiure.git"
+  },
+  "author": "MarceloRussel",
+  "license": "MIT",
+  "homepage": "https://github.com/CarolynMurray/eaqueiure.git",
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
+}
